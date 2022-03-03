@@ -6,7 +6,8 @@ Um repositório é um lugar, na nuvem, onde são guardados os arquivos desenvolv
 2) Qual a diferença entre Git e Github? 
 
 O Git é uma ferramenta de controle de versão, ou seja, ele permite ao desenvolvedor controlar a versão do seu código que será
-utilizada, permitindo também subir arquivos para um repositório na nuvem.
+utilizada, permitindo também subir arquivos para um repositório na nuvem. O GitHub é uma rede social, onde ficam repositórios 
+de códigos que outras pessoas conseguem acessar seu portfólio.
 
 3) Porque utilizar o controle de versão para os arquivos de um projeto de desenvolvimento de software?
 
